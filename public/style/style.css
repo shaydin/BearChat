@@ -1,0 +1,30 @@
+body{
+  font-family: 'Josefin Sans', sans-serif;
+  /*font-family: 'Gloria Hallelujah', cursive;*/
+  padding: 50px;
+}
+code{
+  font-family: 'Space Mono', monospace;
+  color: blue;
+  font-size: 0.7em
+}
+a {
+  color: #00B7FF;
+}
+#content{
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#room{
+  background-color: #DDD;
+  margin-bottom: 1em;
+}
+#messages{
+  width: 800px;
+  height: 400px;
+  overflow: auto;
+  background-color: #EEE;
+  margin-bottom: 1em;
+  margin-right: 10px;
+}
